@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Usuarios",
+  "description": "Un gestor de usuarios simple con backend modular en memoria y frontend de control minimalista",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
